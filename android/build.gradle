@@ -112,4 +112,5 @@ idea {
 }
 dependencies {
     compile 'com.squareup.picasso:picasso:2.3.2'
+    compile 'com.google.code.gson:gson:2.2.4'
 }
